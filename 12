@@ -1,3 +1,4 @@
+//*
 <body>
 <form action = 'gradetest.jsp' method = post >
 Enter Your first subject marks <input type="text" name="marks1">
@@ -31,4 +32,5 @@ else
 out.print("FAIL");
 %>
 </body>
+*//
 
